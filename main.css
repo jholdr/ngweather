@@ -1,0 +1,110 @@
+body {
+  background-color: red;
+  font-family: 'Lato', sans-serif;
+
+}
+
+
+
+#card {
+  margin-top: 12.5%;
+  max-width: 475px;
+  height: 275px;
+ margin-left: auto;
+ margin-right: auto;
+  background-color: rgba(255, 255, 255, .4);
+  color: black;
+  font-size: 14px;
+  border-radius: 15px;
+  position: relative;
+  padding-top: 5%;
+  border-top: 20px #AEEAD7 solid;
+
+}
+
+#weeks {
+  max-height: 12.5%;
+  width: 100%;
+  background-color: white;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+#ft {
+  font-size: 80px;
+  font-weight: 300;
+  color: #545454;
+  float: left;
+  padding-left: 10%;
+
+}
+
+#name {
+  float: left;
+  padding-left: 10%;
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #545454;
+}
+#dscr {
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: white;
+  padding-left: 5px;
+}
+
+#l2 {
+  padding-top: 16px;
+}
+
+#mm {
+  color: #545454;
+}
+
+#wul {
+  list-style: none;
+  margin-top: 50px;
+}
+
+li {
+  width: 12.5%;
+  height: 250px;
+  margin-left: 5px;
+  background: linear-gradient(to bottom, #fff, rgba(174, 234, 215, .16), #fff);
+  border: 1px solid white;
+  display: inline-block;
+  filter: drop-shadow(10px 10px 25px #eee);
+  vertical-align:top;
+
+}
+
+
+#dayInit {
+color: grey;
+font-size: 18px;
+text-align: center;
+font-weight: bold;
+color: #DCDCDC;
+margin-top: 200px;
+letter-spacing: 2px;
+
+}
+
+#wIcon {
+height:15%;
+width: 15%;
+display: inline-block;
+float: right;
+margin-right: 5%;
+}
